@@ -1,9 +1,4 @@
----
-layout: page
-title: Francisco Gálvez Prada
-comments: true
----
-
-# Hi! I'm Francisgo Gálvez, Biologist and Web developer.
+# Hi! I'm Francisgo Gálvez
+## I'm a biologist and a web developer.
 
 
