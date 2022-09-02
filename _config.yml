@@ -1,15 +1,9 @@
 title: Welcome to my Hello World
 author:
-  name: Francisco Gálvex
+  name: Francisco Gálvez
   email: info@iguannaweb.com
 description: One.Two.Three.  
 show_excerpts: false 
-minima:
-  date_format: "%b %-d, %Y"
-  social_links:
-	github:  crishnakh
-#header_pages:
-# - about.md
 theme: minima
 plugins:
  - jekyll-feed
