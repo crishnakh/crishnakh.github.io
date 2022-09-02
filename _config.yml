@@ -1,7 +1,7 @@
 title: Welcome to my Hello World
 author:
-  name: Francisco Gálvez
-  email: info@iguannaweb.com
+	name: Francisco Gálvez
+	email: info@iguannaweb.com
 description: One.Two.Three.  
 show_excerpts: false 
 theme: minima
