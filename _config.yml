@@ -2,11 +2,10 @@ title: Welcome to my Hello World
 author:
   name: Francisco Gálvex
   email: info@iguannaweb.com
-description: > # this means to ignore newlines until "show_excerpts:"
+description: > 
   One.
   Two.
-  Three.
-  
+  Three.  
 show_excerpts: false 
 
 # Minima date format
